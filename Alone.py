@@ -92,7 +92,7 @@ jalan("\033[1;96m| \__| |_| \/ || | ' || _| | v / ")
 jalan("\033[1;96m \__/|___|\__/ |_|\__||___||_|_\ ") 
 jalan("\033[1;97m INDIAN USER USE ANY PROXY TO CLONE")
 jalan("\033[1;97m WIFI USER USE ANY PROXY TO CLONE")
-jalan("\033[1;93m Welcome to Aahil Creations")
+jalan("\033[1;93m Welcome to Zenix Creations")
 jalan("\033[1;96m•◈•──────────•◈•\033[1;96mPakTigers\033[1;96m•◈•──────────•◈•")
 
 CorrectUsername = "alone"
